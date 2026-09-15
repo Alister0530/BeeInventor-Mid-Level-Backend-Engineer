@@ -1,0 +1,17 @@
+{
+  "name": "dasiot-backend-interview",
+  "version": "1.0.0",
+  "description": "DasIoT backend technical interview - Exercise 1: In-Memory Dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.14.9",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.5.4"
+  }
+}
